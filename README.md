@@ -10,7 +10,7 @@ Nombre, rol y correo de los integrantes:
     Juan Carlos Briones Cárdenas - SCRUM Team    carlosbriones70@aragon.unam.mx
     Alejandro Uriel Castro Pérez - SCRUM Team    urielcastro52@aragon.unam.mx
     Angel Enrique Carlo Aquino - SCRUM Team      angelenriquexd50@gmail.com
-    Diego Rodrigo Soto Franco - SCRUM Team
+    Diego Rodrigo Soto Franco - SCRUM Team       diegosoto94@aragon.unam.mx
     Ángel Manuel López González - SCRUM Team     angellopez47@aragon.unam.mx
     Humberto Trujillo Maldonado - SCRUM Team
     
