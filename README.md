@@ -6,7 +6,7 @@ Nombre del equipo: 404 Team
 Nombre, rol y correo de los integrantes:
 
     Bruno Ramirez Picazo - SCRUM MASTER          brunopicazo11@aragon.unam.mx     
-    Itandehui Manzano Mejía - Produc Owner       itandehuimanzano64@aragon.unam.mx
+    Itandehui Manzano Mejía - Product Owner      itandehuimanzano64@aragon.unam.mx
     Juan Carlos Briones Cárdenas - SCRUM Team    carlosbriones70@aragon.unam.mx
     Alejandro Uriel Castro Pérez - SCRUM Team    urielcastro52@aragon.unam.mx
     Angel Enrique Carlo Aquino - SCRUM Team      angelenriquexd50@gmail.com
