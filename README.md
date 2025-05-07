@@ -3,7 +3,7 @@ Repositorio del proyecto parcial de la materia Temas Especiales de Computación 
 
 Nombre del equipo: 404 Team
 
-Nombre de los integrantes y que rol tienen:
+Nombre, rol y correo de los integrantes:
 
     Bruno Ramirez Picazo - SCRUM MASTER          brunopicazo11@aragon.unam.mx     
     Itandehui Manzano Mejía - Produc Owner       itandehuimanzano64@aragon.unam.mx
