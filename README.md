@@ -1,2 +1,14 @@
 # ICO_TE_404-Team
 Repositorio del proyecto parcial de la materia Temas Especiales de Computación 1. Proyecto SCRUM diseño de sitio Web.
+Nombre del equipo: 404 Team
+Nombre de los integrantes y que rol tienen:
+    Bruno Ramirez Picazo - SCRUM MASTER                
+    Manzano Mejía Itandehui - Produc Owner       itandehuimanzano64@aragon.unam.mx
+    Juan Carlos Briones Cárdenas - SCRUM Team    carlosbriones70@aragon.unam.mx
+    Alejandro Uriel Castro Pérez - SCRUM Team
+    Angel Enrique Carlo Aquino - SCRUM Team      angelenriquexd50@gmail.com
+    Diego Rodrigo Soto Franco - SCRUM Team
+    Ángel Manuel López González - SCRUM Team     angellopez47@aragon.unam.mx
+    Humberto Trujillo Maldonado - SCRUM Team
+    
+Correo de los integrantes
