@@ -12,5 +12,5 @@ Nombre, rol y correo de los integrantes:
     Angel Enrique Carlo Aquino - SCRUM Team      angelenriquexd50@gmail.com
     Diego Rodrigo Soto Franco - SCRUM Team       diegosoto94@aragon.unam.mx
     Ángel Manuel López González - SCRUM Team     angellopez47@aragon.unam.mx
-    Humberto Trujillo Maldonado - SCRUM Team
+    Humberto Trujillo Maldonado - SCRUM Team     chinito0904@hotmail.com
     
