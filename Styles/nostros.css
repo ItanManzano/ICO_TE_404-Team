@@ -1,0 +1,86 @@
+/* Estilos específicos para la página de integrantes */
+.team-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    padding: 20px;
+    margin-bottom: 80px; /* Para evitar que el footer cubra contenido */
+}
+
+.team-member {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 15px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+    color: #000;
+}
+
+.team-member:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.member-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto 15px;
+    display: block;
+    border: 4px solid #24f4f4;
+}
+
+.member-name {
+    text-align: center;
+    color: #000;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+}
+
+.member-info {
+    margin-bottom: 10px;
+}
+
+.member-info strong {
+    color: #d04ceb;
+}
+
+.tech-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+.tech-tag {
+    background-color: #24f4f4;
+    color: #000;
+    padding: 4px 10px;
+    border-radius: 15px;
+    font-size: 0.8rem;
+}
+
+.hobby {
+    font-style: italic;
+    margin-top: 10px;
+    font-size: 0.9rem;
+}
+
+.social-links {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.social-link {
+    color: #000;
+    margin: 0 5px;
+    font-size: 1.2rem;
+    transition: color 0.3s ease;
+}
+
+.social-link:hover {
+    color: #24f4f4;
+}
